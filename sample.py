@@ -1,1 +1,1 @@
-cHJpbnQoIkhlbGxvIik=
+print("Hello")
